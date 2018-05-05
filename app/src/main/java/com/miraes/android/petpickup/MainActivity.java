@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         infoTextView.setText("Need a ride to the next vet visit, or trip to the doggy park? " +
                 "Ride with us in our all kinds of, sizes, species pet friendly buddy car service!");
         locationTextView.setText("123-45 Doge Street");
-        opTextView.setText("We operate at all ours for emergency trips!");
+        opTextView.setText("We operate at all hours for emergency trips!");
     }
 
     public void openMap(View v) {
