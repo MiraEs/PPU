@@ -6,5 +6,5 @@ Constraint Layout, Text View drawables, Intents (Google maps, and emailing), Ske
 
 
 <div align="center">
-    <img src="https://github.com/MiraEs/PPU/blob/master/ss.png" width="400px"</img> 
+    <img src="https://github.com/MiraEs/PPU/blob/master/ss.png" width="200px"</img> 
 </div>
